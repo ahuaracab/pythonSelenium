@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bda88cc-fc84-4971-bc02-d84cfb13653a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bQw6r3JS4tV9wNQ7gan5elYEKN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python tests.test demo.executor": "Run",
+    "Python tests.test home page version - blazemeter.executor": "Run",
+    "Python tests.test home page version - local.executor": "Run",
+    "Python tests.test home page version.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects/pythonSelenium/drivers",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\pythonSelenium\drivers" />
+      <recent name="D:\Projects\pythonSelenium\tests" />
+      <recent name="D:\Projects\pythonSelenium" />
+      <recent name="D:\Projects\pythonSelenium\venv\Scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\pythonSelenium\drivers" />
+      <recent name="D:\Projects\pythonSelenium\support2" />
+      <recent name="D:\Projects\pythonSelenium\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.test home page version - local">
+    <configuration name="test home page version - blazemeter" type="tests" factoryName="py.test">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="API_KEY" value="1e089ffbeb5b5838dbee531f" />
+        <env name="API_SECRET" value="ed39131c4222fd3f3c28d82a5e8678ebc70796d9d3a047e1a1e3894e7337ed2406a2d2ec" />
+        <env name="BASE_URL" value="http://dbankdemo.com/bank" />
+        <env name="PASSWORD" value="Demo123!" />
+        <env name="USERNAME" value="jsmith@demo.io" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\pythonSelenium\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonSelenium)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-n 2&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test home page version - local" type="tests" factoryName="py.test">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="BASE_URL" value="http://dbankdemo.com/bank" />
+        <env name="PASSWORD" value="Demo123!" />
+        <env name="IS_LOCAL" value="True" />
+        <env name="USERNAME" value="jsmith@demo.io" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\pythonSelenium\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonSelenium)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-n 2 --html\u003dreporte.html&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test home page version" type="tests" factoryName="py.test">
+      <module name="pythonSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="BASE_URL" value="http://dbankdemo.com/bank" />
+        <env name="PASSWORD" value="Demo123!" />
+        <env name="USERNAME" value="jsmith@demo.io" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\pythonSelenium\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonSelenium)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.test home page version" />
+      <item itemvalue="Python tests.test home page version - blazemeter" />
+      <item itemvalue="Python tests.test home page version - local" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bda88cc-fc84-4971-bc02-d84cfb13653a" name="Changes" comment="" />
+      <created>1706160438518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706160438518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
